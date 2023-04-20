@@ -1,4 +1,4 @@
-# CrudUCS
+# CrudUCS Android
 Parcial2: Crud en Android con los métodos:                                                                                                                               
   Create: guardarEmpleado(Empleado empleado)                                                                                                                             
   Read: getAll(), consultarID(long id)                                                                                                                                   
